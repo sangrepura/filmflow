@@ -1,8 +1,6 @@
 # FilmFlow - A Movie site
 
-My goal was to create a movie site like netflix but with another design and without the movies 😉😂. Built with React js
-
-![](screenshot.png)
+My goal was to create a movie site like netflix but with another design and without the movies.
 
 ## Getting Started
 
