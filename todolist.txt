@@ -1,0 +1,9 @@
+TODO LIST
+
+put searchbar in the header
+
+a loader b4 the watchlist loades
+
+*maybe try to add
+
+check your firestore security
